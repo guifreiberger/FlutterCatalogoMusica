@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585550746523",
+    "project_id": "music-catalog-dc444",
+    "storage_bucket": "music-catalog-dc444.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585550746523:android:3b1dd12bd716b44013473e",
+        "android_client_info": {
+          "package_name": "com.example.catalogo_musica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWu-MKQehRfI0FaMpoKj3FR_rDsB1jcdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
